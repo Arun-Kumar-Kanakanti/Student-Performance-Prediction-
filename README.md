@@ -9,12 +9,6 @@
 
 
 
-<a href="http://www.inpt.ac.ma/" target="_blank">INPT</a> Rabat, Morocco.
-
-
-<div style="text-align:center;padding-top:20px">
-    <img src="http://www.inpt.ac.ma/sites/default/files/logo.png" />
-</div>
 
 <h4></h4>
 
